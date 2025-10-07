@@ -1,0 +1,23 @@
+/* RESET */
+*{
+    font-family: 'Commissioner', sans-serif;
+    margin: 0;
+    padding: 0;
+    --primary:#157A74;
+    --secondary:#3CB4AC;
+    --black:hsl(0, 0%, 0%);
+    --darkgrey:hsl(0, 0%, 48%);
+
+}
+
+img, input{
+    width: 100%;
+}
+
+ul{
+    list-style: none;
+}
+
+button {
+    cursor:pointer;
+}
